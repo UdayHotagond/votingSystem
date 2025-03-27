@@ -1,0 +1,189 @@
+{
+  "_format": "hh-sol-cache-2",
+  "files": {
+    "C:\\Users\\Uday\\my-hardhat-project\\contracts\\simpleStorage.sol": {
+      "lastModificationDate": 1740044642605,
+      "contentHash": "88159df4b61accbe980bd457c9ada146",
+      "sourceName": "contracts/simpleStorage.sol",
+      "solcConfig": {
+        "version": "0.8.28",
+        "settings": {
+          "evmVersion": "paris",
+          "optimizer": {
+            "enabled": false,
+            "runs": 200
+          },
+          "outputSelection": {
+            "*": {
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers",
+                "metadata"
+              ],
+              "": [
+                "ast"
+              ]
+            }
+          }
+        }
+      },
+      "imports": [],
+      "versionPragmas": [
+        "^0.8.0"
+      ],
+      "artifacts": [
+        "SimpleStorage"
+      ]
+    },
+    "C:\\Users\\Uday\\my-hardhat-project\\contracts\\etherWallet.sol": {
+      "lastModificationDate": 1740047516576,
+      "contentHash": "a6279917e5a495dee2c275d557c7c15e",
+      "sourceName": "contracts/etherWallet.sol",
+      "solcConfig": {
+        "version": "0.8.28",
+        "settings": {
+          "evmVersion": "paris",
+          "optimizer": {
+            "enabled": false,
+            "runs": 200
+          },
+          "outputSelection": {
+            "*": {
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers",
+                "metadata"
+              ],
+              "": [
+                "ast"
+              ]
+            }
+          }
+        }
+      },
+      "imports": [],
+      "versionPragmas": [
+        "^0.8.28"
+      ],
+      "artifacts": [
+        "EtherWallet"
+      ]
+    },
+    "C:\\Users\\Uday\\my-hardhat-project\\contracts\\simple.sol": {
+      "lastModificationDate": 1741251783554,
+      "contentHash": "a200c3a04629d477037ec6533f17d297",
+      "sourceName": "contracts/simple.sol",
+      "solcConfig": {
+        "version": "0.8.28",
+        "settings": {
+          "evmVersion": "paris",
+          "optimizer": {
+            "enabled": false,
+            "runs": 200
+          },
+          "outputSelection": {
+            "*": {
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers",
+                "metadata"
+              ],
+              "": [
+                "ast"
+              ]
+            }
+          }
+        }
+      },
+      "imports": [
+        "hardhat/console.sol"
+      ],
+      "versionPragmas": [
+        "^0.8.19"
+      ],
+      "artifacts": [
+        "simple"
+      ]
+    },
+    "C:\\Users\\Uday\\my-hardhat-project\\node_modules\\hardhat\\console.sol": {
+      "lastModificationDate": 1740044484265,
+      "contentHash": "681c532e816169606d13a5fe8b475074",
+      "sourceName": "hardhat/console.sol",
+      "solcConfig": {
+        "version": "0.8.28",
+        "settings": {
+          "evmVersion": "paris",
+          "optimizer": {
+            "enabled": false,
+            "runs": 200
+          },
+          "outputSelection": {
+            "*": {
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers",
+                "metadata"
+              ],
+              "": [
+                "ast"
+              ]
+            }
+          }
+        }
+      },
+      "imports": [],
+      "versionPragmas": [
+        ">=0.4.22 <0.9.0"
+      ],
+      "artifacts": [
+        "console"
+      ]
+    },
+    "C:\\Users\\Uday\\my-hardhat-project\\contracts\\votingSystem.sol": {
+      "lastModificationDate": 1743072361856,
+      "contentHash": "b5368000cf4bfc2f8596328b9f9d91b7",
+      "sourceName": "contracts/votingSystem.sol",
+      "solcConfig": {
+        "version": "0.8.28",
+        "settings": {
+          "evmVersion": "paris",
+          "optimizer": {
+            "enabled": false,
+            "runs": 200
+          },
+          "outputSelection": {
+            "*": {
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers",
+                "metadata"
+              ],
+              "": [
+                "ast"
+              ]
+            }
+          }
+        }
+      },
+      "imports": [
+        "hardhat/console.sol"
+      ],
+      "versionPragmas": [
+        "^0.8.0"
+      ],
+      "artifacts": [
+        "votingSystem"
+      ]
+    }
+  }
+}
